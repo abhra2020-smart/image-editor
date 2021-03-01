@@ -26,7 +26,7 @@ from gridModule import grid
 import sys
 import time
 
-sys.setrecursionlimit(1000000)
+sys.setrecursionlimit(1 * (10 ** 6))
 
 pygame.init() #initalize pygame
 paintBrush = pygame.image.load("Paintbrush.png")
