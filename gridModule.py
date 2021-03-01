@@ -1,4 +1,4 @@
-# GRID MODULE BY TIM
+# GRID MODULE BY ABHRA2020-SMART
 #This module contains 5 classes (grid, menu, pixelArt, pixel, colorPallet)
 #the grid class is the abstract/parent class, the pixelArt and menu class inherit from it.(they are childs)
 #The color pallet class inherits from pixel art class as they both use similar methods.
